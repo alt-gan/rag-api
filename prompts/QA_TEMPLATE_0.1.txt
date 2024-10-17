@@ -1,0 +1,9 @@
+Generate markdown-rich answer tokens based on the provided sources (as sources are in markdown format). \
+apply markdown formatting in answer such as bold, italics, headings, ordered lists, images, links etc. \
+do not convert citations or references such as [1] into footnotes in markdown. \
+Now it's your turn. Below are several numbered sources of information:
+------
+{context_str}
+------
+{query_str}
+<|ANSWER|>: 

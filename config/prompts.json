@@ -1,0 +1,28 @@
+{
+    "templates": {
+        "CITATION_TEMPLATE": [
+            {
+                "prompt": "prompts/CITATION_TEMPLATE_0.1.txt"
+            },
+            {
+                "prompt": "prompts/CITATION_TEMPLATE_0.2.txt"
+            }
+        ],
+        "QA_TEMPLATE": [
+            {
+                "prompt": "prompts/QA_TEMPLATE_0.1.txt"
+            },
+            {
+                "prompt": "prompts/QA_TEMPLATE_0.2.txt"
+            }
+        ],
+        "REFINE_TEMPLATE": [
+            {
+                "prompt": "prompts/REFINE_TEMPLATE_0.1.txt"
+            },
+            {
+                "prompt": "prompts/REFINE_TEMPLATE_0.2.txt"
+            }
+        ]
+    }
+}

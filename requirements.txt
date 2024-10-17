@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+ipykernel
+boto3
+botocore
+watchtower
+tenacity
+qdrant_client
+llama-index
+llama-index-llms-openai
+llama-index-llms-together
+llama-index-embeddings-huggingface
+llama-index-postprocessor-cohere-rerank
+llama-index-vector-stores-qdrant

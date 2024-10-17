@@ -1,0 +1,9 @@
+Now it's your turn. We have provided an existing answer: {existing_answer}
+Below are several numbered sources of information. Use them to refine the existing markdown-rich formatted answer. \
+If the provided sources are not helpful, you will repeat the existing answer.
+Begin refining!
+------
+{context_msg}
+------
+{query_str}
+<|ANSWER|>: 
