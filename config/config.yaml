@@ -27,8 +27,8 @@ chat_summ_bucket: chat_logs
 aws_region: ap-south-1
 aws_s3_bucket: altgan-logs
 aws_s3_pdf_base_url: https://rag-llm.s3.us-east-2.amazonaws.com/
-aws_access_key_id: 
-aws_secret_access_key: 
+aws_access_key_id: AKIATCKAQFB2TZZSNJ74
+aws_secret_access_key: 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
 aws_cloudwatch_log_group: altgan-log-group
 aws_cloudwatch_log_stream: altgan-log-stream
 aws_secret_name: altgan_rag_secret
